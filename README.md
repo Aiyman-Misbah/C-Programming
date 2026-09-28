@@ -60,8 +60,7 @@ C-Programming/
 ├── 11-Dynamic-Memory/
 │
 ├── Notes/
-│
-└── README.md
+
 ```
 
 > The folder structure may change as the course develops.
