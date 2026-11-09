@@ -1,4 +1,4 @@
-# C Programming — Complete Course
+# C Programming
 
 A complete collection of my **C programming learning journey**, including source code, notes, examples, practice problems, and important concepts.
 
@@ -17,7 +17,7 @@ This repository is intended as a structured reference for learning **C programmi
 
 ---
 
-## 🗂️ Course Structure
+## 🗂️ Folder Structure
 
 ```text
 C-Programming/
